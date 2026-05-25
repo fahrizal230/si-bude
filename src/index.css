@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Nunito", system-ui, sans-serif;
+  background: #fff7ed;
+  color: #1f2937;
+}
+
+video,
+img {
+  max-width: 100%;
+}

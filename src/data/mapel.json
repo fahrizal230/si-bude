@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "slug": "pendidikan-pancasila",
+    "title": "Pendidikan Pancasila",
+    "emoji": "🇮🇩",
+    "description": "Belajar nilai-nilai Pancasila dengan contoh sederhana di kehidupan sehari-hari.",
+    "pages": [
+      {
+        "id": 1,
+        "title": "Mengenal Pancasila",
+        "video": "/assets/videos/pendidikan-pancasila-1.mp4",
+        "poster": "/assets/images/pendidikan-pancasila-1-a.jpg",
+        "text": "Pagi itu, Rani datang ke sekolah dengan wajah ceria. Di halaman sekolah, ia melihat teman-temannya sedang bersiap mengikuti upacara bendera. Bu Guru menjelaskan bahwa Pancasila adalah dasar negara Indonesia. Pancasila mengajarkan kita untuk berbuat baik, saling menghormati, hidup rukun, dan bekerja sama. Rani mulai memahami bahwa sikap sederhana seperti berdoa sebelum belajar, menolong teman, dan menjaga kebersihan kelas adalah contoh perilaku yang sesuai dengan nilai Pancasila.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-pancasila-1-a.jpg",
+            "alt": "Anak-anak mengikuti upacara bendera",
+            "caption": "Anak-anak belajar mencintai Indonesia."
+          },
+          {
+            "src": "/assets/images/pendidikan-pancasila-1-b.jpg",
+            "alt": "Anak-anak bekerja sama membersihkan kelas",
+            "caption": "Bekerja sama adalah sikap yang baik."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Hidup Rukun di Sekolah",
+        "video": "/assets/videos/pendidikan-pancasila-2.mp4",
+        "poster": "/assets/images/pendidikan-pancasila-2-a.png",
+        "text": "Saat jam istirahat, Bimo melihat Dika duduk sendirian di dekat taman sekolah. Bimo lalu mengajak Dika bermain bersama. Tidak lama kemudian, teman-teman lain ikut bergabung. Mereka bermain dengan tertib, saling bergantian, dan tidak mengejek satu sama lain. Ketika ada teman yang terjatuh, mereka segera membantu. Dari kegiatan itu, mereka belajar bahwa hidup rukun membuat suasana sekolah menjadi nyaman dan menyenangkan.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-pancasila-2-a.png",
+            "alt": "Anak-anak bermain bersama",
+            "caption": "Bermain bersama tanpa membeda-bedakan teman."
+          },
+          {
+            "src": "/assets/images/pendidikan-pancasila-2-b.png",
+            "alt": "Anak membantu temannya berdiri",
+            "caption": "Menolong teman adalah perbuatan terpuji."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Musyawarah Sederhana",
+        "video": "/assets/videos/pendidikan-pancasila-3.mp4",
+        "poster": "/assets/images/pendidikan-pancasila-3-a.png",
+        "text": "Di kelas, Bu Guru meminta murid-murid memilih kegiatan untuk Jumat bersih. Ada yang ingin membersihkan taman, ada juga yang ingin merapikan perpustakaan. Semua anak diberi kesempatan menyampaikan pendapat. Setelah berdiskusi dengan tenang, mereka sepakat membersihkan taman terlebih dahulu. Anak-anak merasa senang karena keputusan dibuat bersama. Mereka belajar bahwa musyawarah berarti mendengarkan pendapat orang lain dan menerima hasil keputusan dengan lapang dada.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-pancasila-3-a.png",
+            "alt": "Anak-anak berdiskusi di kelas",
+            "caption": "Musyawarah dilakukan dengan tertib."
+          },
+          {
+            "src": "/assets/images/pendidikan-pancasila-3-b.png",
+            "alt": "Guru membimbing diskusi",
+            "caption": "Setiap pendapat perlu dihargai."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Saling Menghargai",
+        "video": "/assets/videos/pendidikan-pancasila-4.mp4",
+        "poster": "/assets/images/pendidikan-pancasila-4-a.png",
+        "text": "Di kelas Rani, teman-temannya berasal dari berbagai daerah. Ada yang memiliki makanan kesukaan berbeda, bahasa daerah berbeda, dan kebiasaan keluarga yang berbeda. Bu Guru mengingatkan bahwa perbedaan bukan alasan untuk saling mengejek. Justru, perbedaan membuat pertemanan menjadi lebih berwarna. Rani dan teman-temannya belajar untuk saling menghargai agar kelas terasa aman, damai, dan menyenangkan.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-pancasila-4-a.png",
+            "alt": "Anak-anak dari berbagai daerah",
+            "caption": "Perbedaan membuat Indonesia indah."
+          },
+          {
+            "src": "/assets/images/pendidikan-pancasila-4-b.png",
+            "alt": "Anak-anak tersenyum bersama",
+            "caption": "Menghargai teman membuat kelas nyaman."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Tanggung Jawab Anak",
+        "video": "/assets/videos/pendidikan-pancasila-5.mp4",
+        "poster": "/assets/images/pendidikan-pancasila-5-a.png",
+        "text": "Setiap pagi, Siti menyiapkan buku pelajarannya sendiri. Di sekolah, ia mengerjakan tugas dengan sungguh-sungguh. Setelah menggunakan alat tulis, Siti merapikannya kembali. Saat piket kelas, ia membantu menyapu lantai dan merapikan meja. Siti belajar bahwa tanggung jawab berarti melakukan tugas dengan baik tanpa harus selalu disuruh. Anak yang bertanggung jawab akan dipercaya oleh guru, orang tua, dan teman-temannya.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-pancasila-5-a.png",
+            "alt": "Anak merapikan meja belajar",
+            "caption": "Merapikan barang adalah bentuk tanggung jawab."
+          },
+          {
+            "src": "/assets/images/pendidikan-pancasila-5-b.png",
+            "alt": "Anak membersihkan kelas",
+            "caption": "Kelas bersih membuat belajar nyaman."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "pendidikan-matematika",
+    "title": "Pendidikan Matematika",
+    "emoji": "🔢",
+    "description": "Belajar angka, pola, dan hitungan dengan cara yang menyenangkan.",
+    "pages": [
+      {
+        "id": 1,
+        "title": "Mengenal Bilangan",
+        "video": "/assets/videos/pendidikan-matematika-1.mp4",
+        "poster": "/assets/images/pendidikan-matematika-1-a.png",
+        "text": "Hari ini, Andi membantu Ibu menata buah di meja makan. Ada satu apel, dua jeruk, dan tiga pisang. Ibu meminta Andi menghitung semua buah dengan suara pelan. Andi menunjuk buah satu per satu sambil menyebut angkanya. Ia merasa senang karena bilangan ternyata ada di sekitar kita. Dari kegiatan sederhana itu, Andi belajar bahwa bilangan digunakan untuk mengetahui jumlah benda.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-matematika-1-a.png",
+            "alt": "Anak menghitung buah",
+            "caption": "Menghitung benda membuat belajar lebih nyata."
+          },
+          {
+            "src": "/assets/images/pendidikan-matematika-1-b.png",
+            "alt": "Kartu angka warna-warni",
+            "caption": "Angka dapat dipelajari dengan kartu."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Penjumlahan",
+        "video": "/assets/videos/pendidikan-matematika-2.mp4",
+        "poster": "/assets/images/pendidikan-matematika-2-a.png",
+        "text": "Lala membawa dua pensil warna ke sekolah. Temannya, Mita, meminjamkan tiga pensil warna lagi. Lala kemudian menghitung semua pensil warna yang ada di mejanya. Dua pensil ditambah tiga pensil menjadi lima pensil. Bu Guru menjelaskan bahwa kegiatan menggabungkan jumlah disebut penjumlahan. Lala tersenyum karena sekarang ia tahu bahwa penjumlahan bisa ditemukan saat belajar dan bermain.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-matematika-2-a.png",
+            "alt": "Anak menjumlahkan pensil warna",
+            "caption": "Penjumlahan berarti menggabungkan jumlah."
+          },
+          {
+            "src": "/assets/images/pendidikan-matematika-2-b.png",
+            "alt": "Papan tulis berisi operasi tambah",
+            "caption": "Tanda tambah membantu kita menghitung."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Pengurangan",
+        "video": "/assets/videos/pendidikan-matematika-3.mp4",
+        "poster": "/assets/images/pendidikan-matematika-3-a.png",
+        "text": "Di rumah, Riko memiliki lima kue kecil di piring. Ia memberikan dua kue kepada adiknya. Setelah itu, Riko menghitung sisa kue di piring. Ternyata masih ada tiga kue. Ayah menjelaskan bahwa pengurangan digunakan untuk mengetahui sisa. Riko pun memahami bahwa pengurangan terjadi ketika sebagian benda diambil atau digunakan.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-matematika-3-a.png",
+            "alt": "Anak menghitung sisa kue",
+            "caption": "Pengurangan membantu mengetahui sisa."
+          },
+          {
+            "src": "/assets/images/pendidikan-matematika-3-b.png",
+            "alt": "Balok angka untuk pengurangan",
+            "caption": "Belajar pengurangan bisa memakai benda."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Bentuk Bangun Datar",
+        "video": "/assets/videos/pendidikan-matematika-4.mp4",
+        "poster": "/assets/images/pendidikan-matematika-4-a.png",
+        "text": "Saat berjalan di kelas, Nia memperhatikan banyak benda di sekitarnya. Jendela kelas berbentuk persegi panjang, jam dinding berbentuk lingkaran, dan penggaris segitiga memiliki tiga sisi. Bu Guru menjelaskan bahwa bentuk-bentuk itu disebut bangun datar. Nia senang karena ternyata matematika tidak hanya ada di buku, tetapi juga ada di benda-benda yang sering ia lihat setiap hari.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-matematika-4-a.png",
+            "alt": "Bentuk persegi segitiga dan lingkaran",
+            "caption": "Bangun datar memiliki bentuk yang berbeda."
+          },
+          {
+            "src": "/assets/images/pendidikan-matematika-4-b.png",
+            "alt": "Anak mencari bentuk di kelas",
+            "caption": "Banyak bentuk matematika di sekitar kita."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Pola Sederhana",
+        "video": "/assets/videos/pendidikan-matematika-5.mp4",
+        "poster": "/assets/images/pendidikan-matematika-5-a.png",
+        "text": "Dina sedang menyusun manik-manik warna-warni. Ia menyusun warna merah, biru, merah, biru, lalu merah lagi. Kakaknya berkata bahwa Dina sedang membuat pola. Pola adalah susunan yang berulang dengan teratur. Dina mencoba membuat pola lain dengan bentuk lingkaran dan bintang. Ia merasa seperti sedang bermain, padahal sebenarnya ia sedang belajar matematika.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-matematika-5-a.png",
+            "alt": "Pola warna merah dan biru",
+            "caption": "Pola dapat dibuat dari warna."
+          },
+          {
+            "src": "/assets/images/pendidikan-matematika-5-b.png",
+            "alt": "Anak menyusun balok pola",
+            "caption": "Menyusun pola bisa terasa seperti bermain."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "pendidikan-bk",
+    "title": "Pendidikan BK",
+    "emoji": "🌈",
+    "description": "Belajar mengenal diri, perasaan, teman, dan kebiasaan baik.",
+    "pages": [
+      {
+        "id": 1,
+        "title": "Mengenal Diri Sendiri",
+        "video": "/assets/videos/pendidikan-bk-1.mp4",
+        "poster": "/assets/images/pendidikan-bk-1-a.png",
+        "text": "Pagi itu, Mira diminta Bu Guru menuliskan hal yang ia sukai. Mira menulis bahwa ia suka menggambar bunga dan membaca cerita. Temannya, Beni, suka bermain bola dan bernyanyi. Bu Guru berkata bahwa setiap anak memiliki kesukaan dan kemampuan yang berbeda. Mira merasa senang karena ia tahu bahwa dirinya berharga. Ia belajar bahwa mengenal diri sendiri membuat anak lebih percaya diri.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bk-1-a.png",
+            "alt": "Anak bercermin dengan senyum",
+            "caption": "Mengenal diri membuat kita lebih percaya diri."
+          },
+          {
+            "src": "/assets/images/pendidikan-bk-1-b.png",
+            "alt": "Anak menulis cita-cita",
+            "caption": "Setiap anak boleh punya impian."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Mengenal Perasaan",
+        "video": "/assets/videos/pendidikan-bk-2.mp4",
+        "poster": "/assets/images/pendidikan-bk-2-a.png",
+        "text": "Saat bermain, mainan Raka tidak sengaja terinjak temannya. Raka merasa marah dan ingin berteriak. Bu Guru mendekatinya dan meminta Raka menarik napas pelan-pelan. Setelah lebih tenang, Raka menceritakan perasaannya dengan baik. Temannya pun meminta maaf. Raka belajar bahwa semua perasaan boleh dirasakan, tetapi kita perlu menyampaikannya dengan cara yang sopan.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bk-2-a.png",
+            "alt": "Ekspresi wajah anak",
+            "caption": "Setiap perasaan memiliki tanda."
+          },
+          {
+            "src": "/assets/images/pendidikan-bk-2-b.png",
+            "alt": "Anak menarik napas",
+            "caption": "Bernapas pelan membantu menenangkan diri."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Berteman dengan Baik",
+        "video": "/assets/videos/pendidikan-bk-3.mp4",
+        "poster": "/assets/images/pendidikan-bk-3-a.png",
+        "text": "Di taman sekolah, Sasa membawa bekal roti dari rumah. Ia melihat temannya lupa membawa bekal. Sasa lalu membagi rotinya menjadi dua bagian. Mereka makan bersama sambil bercerita. Setelah selesai, mereka bermain dengan bergantian dan saling menjaga. Sasa belajar bahwa berteman dengan baik berarti mau berbagi, menghargai, dan tidak memaksakan keinginan sendiri.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bk-3-a.png",
+            "alt": "Anak-anak berbagi bekal",
+            "caption": "Berbagi membuat pertemanan lebih hangat."
+          },
+          {
+            "src": "/assets/images/pendidikan-bk-3-b.png",
+            "alt": "Anak-anak duduk bersama",
+            "caption": "Teman yang baik saling menghargai."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Berani Bertanya",
+        "video": "/assets/videos/pendidikan-bk-4.mp4",
+        "poster": "/assets/images/pendidikan-bk-4-a.png",
+        "text": "Saat pelajaran berlangsung, Fajar belum memahami tugas yang diberikan Bu Guru. Ia merasa malu untuk bertanya. Namun, Bu Guru tersenyum dan berkata bahwa bertanya adalah bagian dari belajar. Fajar lalu mengangkat tangan dan bertanya dengan sopan. Setelah dijelaskan, ia menjadi paham. Fajar belajar bahwa anak yang berani bertanya akan lebih mudah memahami pelajaran.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bk-4-a.png",
+            "alt": "Anak mengangkat tangan di kelas",
+            "caption": "Mengangkat tangan sebelum bertanya."
+          },
+          {
+            "src": "/assets/images/pendidikan-bk-4-b.png",
+            "alt": "Guru menjelaskan kepada murid",
+            "caption": "Bertanya membantu kita memahami pelajaran."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Kebiasaan Baik Setiap Hari",
+        "video": "/assets/videos/pendidikan-bk-5.mp4",
+        "poster": "/assets/images/pendidikan-bk-5-a.png",
+        "text": "Setiap malam, Putri menyiapkan buku dan seragam untuk sekolah esok hari. Pagi harinya, ia bangun lebih tenang karena semua sudah siap. Setelah pulang sekolah, Putri mencuci tangan, makan, beristirahat, lalu belajar sebentar. Ibu memuji Putri karena mulai memiliki kebiasaan baik. Putri belajar bahwa kebiasaan kecil yang dilakukan setiap hari dapat membuat hidup lebih teratur.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bk-5-a.png",
+            "alt": "Anak membuat jadwal harian",
+            "caption": "Jadwal membantu kegiatan lebih teratur."
+          },
+          {
+            "src": "/assets/images/pendidikan-bk-5-b.png",
+            "alt": "Anak merapikan tempat tidur",
+            "caption": "Kebiasaan baik dimulai dari rumah."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "pendidikan-bahasa-indonesia",
+    "title": "Pendidikan Bahasa Indonesia",
+    "emoji": "📚",
+    "description": "Belajar membaca, menulis, berbicara, dan memahami cerita.",
+    "pages": [
+      {
+        "id": 1,
+        "title": "Membaca Nyaring",
+        "video": "/assets/videos/pendidikan-bahasa-indonesia-1.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-indonesia-1-a.png",
+        "text": "Hari ini, Bu Guru meminta Lani membaca cerita di depan kelas. Awalnya Lani merasa gugup, tetapi ia mencoba membaca dengan suara jelas. Ia berhenti sebentar saat melihat tanda titik dan koma. Teman-temannya mendengarkan dengan tenang. Setelah selesai, Bu Guru memberi pujian karena Lani sudah membaca dengan baik. Lani belajar bahwa membaca nyaring perlu suara jelas, sikap percaya diri, dan perhatian pada tanda baca.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-1-a.png",
+            "alt": "Anak membaca buku",
+            "caption": "Membaca buku membuka banyak pengetahuan."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-1-b.png",
+            "alt": "Anak membaca di depan kelas",
+            "caption": "Berani membaca di depan teman."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Menulis Kalimat",
+        "video": "/assets/videos/pendidikan-bahasa-indonesia-2.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-indonesia-2-a.png",
+        "text": "Doni sedang belajar menulis kalimat. Ia menulis, aku suka membaca buku. Bu Guru lalu mengingatkan bahwa kalimat diawali huruf kapital dan diakhiri tanda titik. Doni memperbaiki tulisannya menjadi, Aku suka membaca buku. Ia merasa senang karena kalimatnya terlihat lebih rapi. Doni belajar bahwa kalimat yang baik harus jelas, mudah dibaca, dan memiliki tanda baca yang tepat.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-2-a.png",
+            "alt": "Anak menulis di buku",
+            "caption": "Menulis membuat ide tersimpan rapi."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-2-b.png",
+            "alt": "Buku berisi kalimat sederhana",
+            "caption": "Kalimat baik ditulis dengan jelas."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Mendengarkan Cerita",
+        "video": "/assets/videos/pendidikan-bahasa-indonesia-3.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-indonesia-3-a.png",
+        "text": "Di sudut kelas, Bu Guru membacakan cerita tentang seekor kelinci yang rajin menolong teman. Anak-anak duduk dengan tenang dan mendengarkan. Setelah cerita selesai, Bu Guru bertanya siapa tokoh utama dalam cerita. Nanda mengangkat tangan dan menjawab dengan benar. Ia bisa menjawab karena mendengarkan dengan baik. Nanda belajar bahwa mendengarkan cerita membantu kita memahami tokoh, tempat, dan kejadian.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-3-a.png",
+            "alt": "Guru membacakan cerita",
+            "caption": "Cerita bisa memberi pelajaran baik."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-3-b.png",
+            "alt": "Anak-anak mendengarkan cerita",
+            "caption": "Mendengarkan perlu perhatian."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Bercerita di Depan Kelas",
+        "video": "/assets/videos/pendidikan-bahasa-indonesia-4.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-indonesia-4-a.png",
+        "text": "Alya membawa gambar liburannya ke rumah nenek. Bu Guru meminta Alya bercerita di depan kelas. Alya menarik napas lalu mulai bercerita dengan suara jelas. Ia menceritakan perjalanan naik bus, melihat sawah, dan membantu nenek menyiram bunga. Teman-temannya mendengarkan dengan senang. Alya belajar bahwa bercerita menjadi lebih mudah jika kita mengingat kejadian dengan urut dan berbicara perlahan.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-4-a.png",
+            "alt": "Anak bercerita di depan kelas",
+            "caption": "Berbicara di depan kelas butuh keberanian."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-4-b.png",
+            "alt": "Teman-teman mendengarkan cerita",
+            "caption": "Pendengar yang baik memperhatikan pembicara."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Mengenal Puisi Anak",
+        "video": "/assets/videos/pendidikan-bahasa-indonesia-5.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-indonesia-5-a.png",
+        "text": "Sore hari, Bayu duduk di teras rumah sambil melihat langit berwarna jingga. Ia menulis beberapa kalimat tentang burung, awan, dan angin. Ibu berkata bahwa tulisan Bayu terdengar seperti puisi. Puisi menggunakan kata-kata indah dan dibaca dengan perasaan. Bayu lalu membaca puisinya pelan-pelan. Ia merasa senang karena bisa mengungkapkan rasa kagumnya pada alam melalui kata-kata.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-5-a.png",
+            "alt": "Anak membaca puisi",
+            "caption": "Puisi dibaca dengan penuh perasaan."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-indonesia-5-b.png",
+            "alt": "Buku puisi anak",
+            "caption": "Puisi anak memakai kata yang sederhana."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "pendidikan-bahasa-inggris",
+    "title": "Pendidikan Bahasa Inggris",
+    "emoji": "🗣️",
+    "description": "Belajar kosakata dan kalimat bahasa Inggris sederhana.",
+    "pages": [
+      {
+        "id": 1,
+        "title": "Greetings",
+        "video": "/assets/videos/pendidikan-bahasa-inggris-1.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-inggris-1-a.png",
+        "text": "Pagi hari, Edo bertemu Miss Ana di depan kelas. Miss Ana tersenyum dan berkata, Good morning, Edo. Edo menjawab, Good morning, Miss Ana. Setelah itu, Edo menyapa temannya dengan kata hello. Miss Ana menjelaskan bahwa greetings adalah sapaan dalam bahasa Inggris. Edo merasa senang karena sapaan sederhana dapat membuat suasana menjadi ramah dan hangat.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-1-a.png",
+            "alt": "Anak menyapa temannya",
+            "caption": "Hello berarti halo."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-1-b.png",
+            "alt": "Kartu ucapan good morning",
+            "caption": "Good morning digunakan pada pagi hari."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Numbers",
+        "video": "/assets/videos/pendidikan-bahasa-inggris-2.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-inggris-2-a.png",
+        "text": "Di kelas, Miss Ana membawa beberapa bola kecil. Ia meminta murid-murid menghitung dalam bahasa Inggris. Satu disebut one, dua disebut two, dan tiga disebut three. Dito mencoba menghitung bola di meja sambil menunjuk satu per satu. Awalnya ia pelan-pelan, tetapi lama-lama menjadi lancar. Dito belajar bahwa numbers membantu kita menyebut jumlah benda dalam bahasa Inggris.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-2-a.png",
+            "alt": "Kartu angka bahasa Inggris",
+            "caption": "Numbers bisa dipelajari dengan kartu."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-2-b.png",
+            "alt": "Anak menghitung mainan",
+            "caption": "Count your toys!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Colors",
+        "video": "/assets/videos/pendidikan-bahasa-inggris-3.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-inggris-3-a.png",
+        "text": "Maya membawa kotak pensil warna ke kelas. Ada warna merah, biru, dan kuning. Miss Ana berkata bahwa merah dalam bahasa Inggris adalah red, biru adalah blue, dan kuning adalah yellow. Maya lalu menunjuk pensil warna satu per satu sambil menyebut namanya dalam bahasa Inggris. Ia merasa senang karena belajar colors bisa dilakukan dengan benda yang ia gunakan setiap hari.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-3-a.png",
+            "alt": "Palet warna",
+            "caption": "Colors membuat dunia terlihat ceria."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-3-b.png",
+            "alt": "Anak menunjuk benda berwarna",
+            "caption": "Find something red!"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Animals",
+        "video": "/assets/videos/pendidikan-bahasa-inggris-4.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-inggris-4-a.png",
+        "text": "Saat pelajaran bahasa Inggris, Miss Ana menunjukkan gambar hewan. Ada kucing, burung, dan ikan. Kucing disebut cat, burung disebut bird, dan ikan disebut fish. Rafa menirukan suara kucing sambil berkata cat. Teman-temannya tertawa senang. Miss Ana berkata bahwa belajar animals akan lebih mudah jika kita melihat gambar dan mengulang kata-katanya dengan ceria.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-4-a.png",
+            "alt": "Gambar hewan lucu",
+            "caption": "Animals are fun to learn."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-4-b.png",
+            "alt": "Anak melihat hewan",
+            "caption": "A cat, a bird, and a fish."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "My Family",
+        "video": "/assets/videos/pendidikan-bahasa-inggris-5.mp4",
+        "poster": "/assets/images/pendidikan-bahasa-inggris-5-a.png",
+        "text": "Hari ini, Sinta membawa gambar keluarganya. Ia menunjukkan gambar ayah, ibu, kakak, dan adiknya. Miss Ana menjelaskan bahwa ayah disebut father, ibu disebut mother, saudara laki-laki disebut brother, dan saudara perempuan disebut sister. Sinta lalu mencoba berkata, This is my family. Ia bangga karena bisa memperkenalkan keluarganya dengan kalimat sederhana dalam bahasa Inggris.",
+        "illustrations": [
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-5-a.png",
+            "alt": "Keluarga tersenyum",
+            "caption": "This is my family."
+          },
+          {
+            "src": "/assets/images/pendidikan-bahasa-inggris-5-b.png",
+            "alt": "Anak menggambar keluarga",
+            "caption": "Family means keluarga."
+          }
+        ]
+      }
+    ]
+  }
+]
